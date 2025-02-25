@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dd65e3f9-2fb4-4a45-bdbf-19d9f8e793c6" alt="FEZtool Logo" width="150" style="display: block; dark-mode: hidden;" />
-  <img src="https://github.com/user-attachments/assets/f993166f-e401-4c86-b422-67bec36bf762" alt="FEZtool Logo" width="150" style="display: none; light-mode: hidden;" />
+  <picture>
+    <source srcset="https://github.com/user-attachments/assets/f993166f-e401-4c86-b422-67bec36bf762" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/user-attachments/assets/dd65e3f9-2fb4-4a45-bdbf-19d9f8e793c6" alt="FEZtool Logo" width="150">
+  </picture>
 </p>
 
 # 🌍 FEZtool  
@@ -57,6 +59,8 @@ We welcome contributions from scientists, developers, and sustainability enthusi
 **Made With ❤️ by FEZteam**  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/47548e33-db25-4ad9-9ab5-98c72a8b06d4" alt="FEZtool banner" width="1920">
+  <picture>
+    <source srcset="https://github.com/user-attachments/assets/372aa1c2-acdf-4c22-bda3-dabbd609dde8" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/user-attachments/assets/47548e33-db25-4ad9-9ab5-98c72a8b06d4" alt="FEZtool Logo" width="1920">
+  </picture>
 </p>
-
