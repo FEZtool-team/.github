@@ -57,5 +57,5 @@ We welcome contributions from scientists, developers, and sustainability enthusi
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/06ea138c-2cd1-4ced-a48a-27d0d2f18023" alt="FezTool Logo" width="300">
-</p>****
+</p>
 
