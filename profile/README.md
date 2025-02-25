@@ -56,6 +56,6 @@ We welcome contributions from scientists, developers, and sustainability enthusi
 **Made With ❤️ by FEZteam**  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6cba4606-942a-4dba-89ba-18cea1fb230a" alt="FEZtool banner" width="300">
+  <img src="https://github.com/user-attachments/assets/6cba4606-942a-4dba-89ba-18cea1fb230a" alt="FEZtool banner" width="1920">
 </p>
 
