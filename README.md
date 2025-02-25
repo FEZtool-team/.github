@@ -2,13 +2,22 @@
 
 **FEZtool** is an open-source initiative dedicated to developing cutting-edge tools for earth sciences professionals. Our mission is to empower researchers, engineers, and sustainability advocates with innovative solutions that promote environmental friendliness and sustainability.  
 
+## 🎩 Why "FEZ"?  
+
+The **fez** is a felt headdress, usually red with a black tassel, historically linked to the Ottoman Empire. It derives its name from the Moroccan city of **Fez**, where crimson dye for the hat was traditionally sourced. However, its origins remain debated.  
+
+At **FEZtool**, the fez has a different meaning:  
+
+**FEZ = Free (F) & Easy (EZ)**  
+
+Our goal is to develop **free, open-source, and easy-to-use** tools that support earth sciences and sustainability efforts worldwide.  
+
 ## 🔬 Our Focus Areas  
 
 - **Earth Sciences & Environmental Research** 🌱  
 - **Sustainable Development & Climate Action** 🌍  
 - **Open-Source Scientific Computing** 💻  
-- **Geospatial Analysis & Remote Sensing** 🛰️
-
+- **Geospatial Analysis & Remote Sensing** 🛰️  
 
 ## 🛠️ Our Projects  
 
@@ -37,5 +46,7 @@ We welcome contributions from scientists, developers, and sustainability enthusi
 ## 📢 Connect With Us  
 
 🌍 Website: [FEZtool.com](https://feztool.com/)  
-📧 Email: info@feztool.com  
+📧 Email: support@feztool.com  
 📜 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+
+**Made With ❤️ by FEZteam**  
