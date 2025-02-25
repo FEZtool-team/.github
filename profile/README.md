@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dd65e3f9-2fb4-4a45-bdbf-19d9f8e793c6" alt="FEZtool Logo" width="300">
+  <img src="https://github.com/user-attachments/assets/dd65e3f9-2fb4-4a45-bdbf-19d9f8e793c6" alt="FEZtool Logo" width="100">
 </p>
 
 # 🌍 FEZtool  
