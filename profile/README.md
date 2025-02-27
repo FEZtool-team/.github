@@ -1,3 +1,5 @@
+[![committers.top badge](https://org-badge.committers.top/iran/FEZtool-team.svg)](https://org-badge.committers.top/iran/FEZtool-team)
+
 <p align="center">
   <picture>
     <source srcset="https://github.com/user-attachments/assets/f993166f-e401-4c86-b422-67bec36bf762" media="(prefers-color-scheme: dark)">
