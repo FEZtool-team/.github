@@ -7,7 +7,7 @@
 
 # 🌍 FEZtool  
 
-**FEZtool** is an open-source initiative dedicated to developing cutting-edge tools for earth sciences professionals. Our mission is to empower researchers, engineers, and sustainability advocates with innovative solutions that promote environmental friendliness and sustainability.  
+[**FEZtool**](https://feztool.com/) is an open-source initiative dedicated to developing cutting-edge tools for earth sciences professionals. Our mission is to empower researchers, engineers, and sustainability advocates with innovative solutions that promote environmental friendliness and sustainability.  
 
 ## 🎩 Why "FEZ"?  
 
