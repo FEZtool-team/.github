@@ -1,4 +1,3 @@
-[![committers.top badge](https://org-badge.committers.top/iran/FEZtool-team.svg)](https://org-badge.committers.top/iran/FEZtool-team)
 
 <p align="center">
   <picture>
