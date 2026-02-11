@@ -49,7 +49,9 @@ We welcome contributions from scientists, developers, and sustainability enthusi
 1. **Explore our projects**: Check out our repositories and find a project that interests you.  
 2. **Fork & Contribute**: Fork the repo, make your improvements, and submit a pull request.  
 3. **Join the Community**: Engage in discussions, report issues, and propose new ideas.  
-4. **Spread the Word**: Share FEZtool with others passionate about sustainability and earth sciences.  
+4. **Spread the Word**: Share FEZtool with others passionate about sustainability and earth sciences.
+
+<a href="https://mapmyvisitors.com/web/1c2i4"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=cEPNIgw1HlE2AyVA4HKUNNZDyGXiliFvf9p_ii8W_aU&cl=ffffff" /></a>
 
 ## 📢 Connect With Us  
 
