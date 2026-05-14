@@ -5,7 +5,7 @@
     <img src="https://github.com/user-attachments/assets/dd65e3f9-2fb4-4a45-bdbf-19d9f8e793c6" alt="FEZtool Logo" width="150">
   </picture>
 </p>
-
+ 
 # 🌍 FEZtool  
 
 [**FEZtool**](https://feztool.com/) is an open-source initiative dedicated to developing cutting-edge tools for earth sciences professionals. Our mission is to empower researchers, engineers, and sustainability advocates with innovative solutions that promote environmental friendliness and sustainability.  
