@@ -29,11 +29,11 @@ Our goal is to develop **free, open-source, and easy-to-use** tools that support
 
 ## 🛠️ Our Projects  
 
-FEZtool develops a variety of open-source projects to support environmental and scientific communities. Some of our key areas include:  
+- **[FEZrs](https://feztool.com/fezrs/)**: open-source Python package for geospatial multispectral image processing and remote sensing: spectral indices, filters, image enhancement, change detection and classification. `pip install fezrs` · [GitHub](https://github.com/FEZtool-team/FEZrs) · [PyPI](https://pypi.org/project/fezrs/) · [Anaconda](https://anaconda.org/FEZtool/fezrs) · [Docs](https://feztool-team.github.io/FEZdocs/libraries/fezrs/) · [DOI 10.5281/zenodo.14938038](https://doi.org/10.5281/zenodo.14938038)  
+- **[FEZfm](https://fezfm.feztool.com/)**: earthquake monitor. Every 30 minutes it collects reports from USGS and EMSC, merges them, and publishes a feed, a map and downloadable data. [GitHub](https://github.com/FEZtool-team/FEZfm)  
+- **[FEZdocs](https://feztool-team.github.io/FEZdocs/)**: documentation for FEZtool libraries, starting with FEZrs. [GitHub](https://github.com/FEZtool-team/FEZdocs)  
 
-- **Data Analysis & Visualization**: Tools for geospatial data, climate modeling, and environmental impact assessments.  
-- **Sustainable Resource Management**: Applications for water conservation, renewable energy, and carbon footprint analysis.  
-- **AI & Machine Learning**: Solutions for predictive modeling, disaster response, and ecological monitoring.  
+More about the team and the tools at [feztool.com](https://feztool.com/).  
 
 ## 📜 License  
 
@@ -56,7 +56,7 @@ We welcome contributions from scientists, developers, and sustainability enthusi
 ## 📢 Connect With Us  
 
 🌍 Website: [FEZtool.com](https://feztool.com/)  
-📧 Email: support@feztool.com  
+📧 Email: [info@feztool.com](mailto:info@feztool.com)  
 📜 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 
 **Made With ❤️ by FEZteam**  
